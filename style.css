@@ -1,0 +1,22 @@
+html {
+    width: 700px;
+    height: 700px;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+li {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    
+}
+p{
+    background-color: brown;
+    color: white;
+    height: 50px;
+}
